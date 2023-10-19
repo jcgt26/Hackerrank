@@ -13,6 +13,6 @@ if __name__=='__main__':
     if(n == len(arr)):
         ans = average(arr)
         print(ans)
-    else:2
+    else:
         pass
 
